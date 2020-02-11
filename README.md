@@ -1,4 +1,4 @@
-# Equipo8
+# Equipo 8
 Simulacion [13:00 a 14:00]
 Trabajo de simulación
 
