@@ -1,6 +1,7 @@
-# equipo8
-simulacion:13:00 a 14:00
+# Equipo 8
+Simulacion [13:00 a 14:00]
 Trabajo de simulación
+<<<<<<< HEAD
 Cruz Gongora Fernando Jose
 pech Franco Reyna A
 Tun Cauich Alejandra N
@@ -93,3 +94,12 @@ Numero de página.
 Cada página se enumera en la esquina inferior derecha, con números
 arábigos en el orden correlativo
 ***********************************************************
+=======
+
+Integrantes: 
+* Cruz Gongora Fernando Jose
+* Pech Franco Reyna A
+* Hernandez Sanchez Carlos Ivan
+* Tun Cauich Alejandra N
+
+>>>>>>> cc3ac324999a53c2155833f33734f30422754989
